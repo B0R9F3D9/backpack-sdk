@@ -8,4 +8,5 @@ export type {
 	OpenedMarketOrder,
 	Depth,
 	Reward,
+	FillHistory,
 } from './types';

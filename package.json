@@ -1,7 +1,7 @@
 {
 	"name": "backpack-sdk",
 	"description": "SDK for Backpack Exchange",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"module": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"type": "module",
